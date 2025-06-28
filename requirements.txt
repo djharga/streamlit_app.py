@@ -1,8 +1,8 @@
 streamlit
 pandas
 numpy
+pandas_ta
 yfinance
 scikit-learn
 lightgbm
-pandas_ta
 joblib
